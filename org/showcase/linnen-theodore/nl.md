@@ -1,8 +1,10 @@
 ---
 date: 2013-02-16
-title: Een Theodore broek in bruin-grijs linnen door Joost
+title: Bruingrijze linnen Theodore broek door joostdecock
 img: showcase.jpg
-caption: These are great in summer
-patterns: [theodore]
-author: Joost De Cock
+caption: Deze broek is geweldig in de zomer
+patterns:
+  - theodore
+author: joost
 ---
+

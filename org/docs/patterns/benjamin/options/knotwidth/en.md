@@ -1,8 +1,5 @@
 ---
 title: Knot width
-path: /en/docs/patterns/benjamin/options/knotwidth
-pattern: benjamin
-option: knotWidth
 ---
 The knot width is the width in the middle of the bow tie, where you make the knot.
 

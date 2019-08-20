@@ -1,8 +1,5 @@
 ---
 title: Hips ease
-path: /en/docs/patterns/aaron/options/hipsease
-pattern: aaron
-option: hipsEase
 ---
 ![The hips ease option on Aaron](./hipsease.svg)
 

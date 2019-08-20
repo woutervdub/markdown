@@ -1,8 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/bent/options/lengthbonus
-pattern: bent
-option: lengthBonus
 ---
 
 This option controls how far the block extend below your hips.

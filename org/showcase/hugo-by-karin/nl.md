@@ -1,9 +1,10 @@
 ---
 date: 2018-10-07
-title: Een gehackte Hugo capuchon door Karin
+title: Een Hugo hack door Karin
 img: hugo.jpg
-caption: Een beetje werk aan de mouwen en pasvorm, maar een leuk resultaat
-patterns: [hugo]
+caption: "Wat werk aan de pasvorm en de mouwen, maar een geweldig eindresultaat."
+patterns:
+  - hugo
 ---
 
-Meer informatie is te vinden op [de blog van Karin](https://www.karinkay.nl/freesewing-hugo-hoodie/) (in het Nederlands). 
+Karin heeft meer details over dit stuk [op haar blog](https://www.karinkay.nl/freesewing-hugo-hoodie/).

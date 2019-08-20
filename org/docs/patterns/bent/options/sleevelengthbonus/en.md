@@ -1,8 +1,5 @@
 ---
 title: Sleevelength bonus
-path: /en/docs/patterns/bent/options/sleevelengthbonus
-pattern: bent
-option: sleevelengthBonus
 ---
 The amount to extend the sleeve beyond the length of the sleeve in the base block.
 

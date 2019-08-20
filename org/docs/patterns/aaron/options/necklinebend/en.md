@@ -1,8 +1,5 @@
 ---
 title: Neckline shape
-path: /en/docs/patterns/aaron/options/necklinebend
-pattern: aaron
-option: necklineBend
 ---
 ![The neckline shape option on Aaron](./necklinebend.svg)
 

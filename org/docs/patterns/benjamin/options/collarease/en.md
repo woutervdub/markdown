@@ -1,8 +1,5 @@
 ---
 title: Collar ease
-path: /en/docs/patterns/benjamin/options/collarease
-pattern: benjamin
-option: collarEase
 ---
 How much ease do you use for your collar?
 

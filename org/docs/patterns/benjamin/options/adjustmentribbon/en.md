@@ -1,8 +1,5 @@
 ---
 title: Adjustment ribbon
-path: /en/docs/patterns/benjamin/options/adjustmentribbon
-pattern: benjamin
-option: adjustmentRibbon
 ---
 
 Traditional or adjustable?

@@ -1,8 +1,5 @@
 ---
 title: Armhole drop
-path: /en/docs/patterns/aaron/options/armholedrop
-pattern: aaron
-option: armholeDrop
 ---
 ![The armhole drop option on Aaron](./armholedrop.svg)
 

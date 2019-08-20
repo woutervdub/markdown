@@ -1,8 +1,5 @@
 ---
 title: Back rise
-path: /en/docs/patterns/theo/options/backrise
-pattern: theo
-option: backRise
 ---
 
 This raises the waist of your trousers at the back.

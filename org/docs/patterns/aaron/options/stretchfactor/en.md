@@ -1,8 +1,5 @@
 ---
 title: Stretch
-path: /en/docs/patterns/aaron/options/stretchfactor
-pattern: aaron
-option: stretchFactor
 ---
 ![The stretch factor option on Aaron](./stretchfactor.svg)
 

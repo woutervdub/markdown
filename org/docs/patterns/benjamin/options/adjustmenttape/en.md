@@ -1,8 +1,5 @@
 ---
 title: Adjustment tape
-path: /en/docs/patterns/benjamin/options/adjustmenttape
-pattern: benjamin
-option: adjustmentTape
 ---
 
 Traditional or adjustable?
