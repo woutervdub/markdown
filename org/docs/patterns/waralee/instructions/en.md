@@ -3,7 +3,7 @@
 
 ##### The key to Waralee is the waist band
 
-In a way, Waralee is just a waist band with a long piece of fabric attached. The waist band needs to continue from the fabric into two strings of fabric that are used to tie the pants in the front and two in the back. These strings are not included in the pattern. Traditionally, they are of similar length. You can make longer ones for the front panel (the side that is a little taller than the other), to allow you to tie both sets in the front. I prefer this as it is easier to tie, and you don't have the bulk of the knot in the back.
+In a way, Waralee is just a waist band with a long piece of fabric attached. The waist band needs to continue from the fabric into two strings of fabric that are used to tie the pants in the front and two in the back. These strings are not included in the pattern. Traditionally, they are of similar length. You can make longer ones for the front panel (the side that is less tall than the other), to allow you to tie both sets in the front. I prefer this as it is easier to tie, and you don't have the bulk of the knot in the back.
 
 </Tip>
 
